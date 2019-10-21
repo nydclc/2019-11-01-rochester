@@ -326,7 +326,7 @@ please preview your site before committing, and make sure to run
 
 </div> {% comment %} End of 'Git' section. {% endcomment %}
 
-### Spreadsheets
+<h3>Spreadsheets</h3>
 
 Spreadsheets are useful for data entry and data organization, and some
 subsetting and sorting of the data as well as getting an overview of the
